@@ -1,25 +1,5 @@
-<<<<<<< HEAD
-this is good tesaaaa
-d show 
-bbbb
-cc
-dddd
-ng show neee
-
-please follow good steps
-=======
 this is good tesaaaa
 det
-bbbb
-cccc
-dddd
-eeee
-ffff
-gggg
-hhhh
-jjjj
-kkkk
-llll
+bbb
 
-
->>>>>>> hot_fix
+我是令狐冲

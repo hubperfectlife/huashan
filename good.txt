@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 this is good tesaaaa
 d show 
 bbbb
@@ -6,3 +7,19 @@ dddd
 ng show neee
 
 please follow good steps
+=======
+this is good tesaaaa
+det
+bbbb
+cccc
+dddd
+eeee
+ffff
+gggg
+hhhh
+jjjj
+kkkk
+llll
+
+
+>>>>>>> hot_fix
